@@ -2,8 +2,8 @@
 
 #This SRR is for an Ebola sample (so should be all virus I think)
 #Paired end 
-#Illumina MiSeq
-srr=SRR3109919
+#Illumina HiSeq
+srr=SRR1553459
 
 #path to main director
 main_dir=/zfs1/ncbi-workshop/virus-discovery/executable.scripts
